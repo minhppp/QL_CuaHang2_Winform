@@ -1,0 +1,27 @@
+C:\Users\ADMIN\OneDrive\Desktop\Đồ án cá nhân C#_Winform_Ứng dụng .Net\Đồ_Án_Cá_Nhân\QL_QuanCafe\bin\Debug\QL_QuanCafe.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\Đồ án cá nhân C#_Winform_Ứng dụng .Net\Đồ_Án_Cá_Nhân\QL_QuanCafe\bin\Debug\QL_QuanCafe.exe
+C:\Users\ADMIN\OneDrive\Desktop\Đồ án cá nhân C#_Winform_Ứng dụng .Net\Đồ_Án_Cá_Nhân\QL_QuanCafe\bin\Debug\QL_QuanCafe.pdb
+C:\Users\ADMIN\OneDrive\Desktop\Đồ án cá nhân C#_Winform_Ứng dụng .Net\Đồ_Án_Cá_Nhân\QL_QuanCafe\obj\Debug\QL_QuanCafe.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\Đồ án cá nhân C#_Winform_Ứng dụng .Net\Đồ_Án_Cá_Nhân\QL_QuanCafe\obj\Debug\QL_QuanCafe.frm_Login.resources
+C:\Users\ADMIN\OneDrive\Desktop\Đồ án cá nhân C#_Winform_Ứng dụng .Net\Đồ_Án_Cá_Nhân\QL_QuanCafe\obj\Debug\QL_QuanCafe.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Desktop\Đồ án cá nhân C#_Winform_Ứng dụng .Net\Đồ_Án_Cá_Nhân\QL_QuanCafe\obj\Debug\QL_QuanCafe.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Desktop\Đồ án cá nhân C#_Winform_Ứng dụng .Net\Đồ_Án_Cá_Nhân\QL_QuanCafe\obj\Debug\QL_QuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\Đồ án cá nhân C#_Winform_Ứng dụng .Net\Đồ_Án_Cá_Nhân\QL_QuanCafe\obj\Debug\QL_QuanCafe.exe
+C:\Users\ADMIN\OneDrive\Desktop\Đồ án cá nhân C#_Winform_Ứng dụng .Net\Đồ_Án_Cá_Nhân\QL_QuanCafe\obj\Debug\QL_QuanCafe.pdb
+C:\Users\ADMIN\OneDrive\Desktop\Đồ án cá nhân C#_Winform_Ứng dụng .Net\Đồ_Án_Cá_Nhân\QL_QuanCafe\obj\Debug\QL_QuanCafe.Frm_Manager.resources
+C:\Users\ADMIN\OneDrive\Desktop\Đồ án cá nhân C#_Winform_Ứng dụng .Net\Đồ_Án_Cá_Nhân\QL_QuanCafe\obj\Debug\QL_QuanCafe.frm_Admin.resources
+C:\Users\ADMIN\OneDrive\Desktop\Đồ án cá nhân C#_Winform_Ứng dụng .Net\Đồ_Án_Cá_Nhân\QL_QuanCafe\obj\Debug\QL_QuanCafe.frm_Info_employee.resources
+C:\Users\ADMIN\OneDrive\Desktop\Đồ án cá nhân C#_Winform_Ứng dụng .Net\Đồ_Án_Cá_Nhân\QL_QuanCafe\obj\Debug\QL_QuanCafe.Frm_QR.resources
+C:\Users\ADMIN\OneDrive\Desktop\NGUYENTHEMINH_8340\NGUYENTHEMINH_8340\QL_QuanCafe\bin\Debug\QL_QuanCafe.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\NGUYENTHEMINH_8340\NGUYENTHEMINH_8340\QL_QuanCafe\bin\Debug\QL_QuanCafe.exe
+C:\Users\ADMIN\OneDrive\Desktop\NGUYENTHEMINH_8340\NGUYENTHEMINH_8340\QL_QuanCafe\bin\Debug\QL_QuanCafe.pdb
+C:\Users\ADMIN\OneDrive\Desktop\NGUYENTHEMINH_8340\NGUYENTHEMINH_8340\QL_QuanCafe\obj\Debug\QL_QuanCafe.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\NGUYENTHEMINH_8340\NGUYENTHEMINH_8340\QL_QuanCafe\obj\Debug\QL_QuanCafe.frm_Admin.resources
+C:\Users\ADMIN\OneDrive\Desktop\NGUYENTHEMINH_8340\NGUYENTHEMINH_8340\QL_QuanCafe\obj\Debug\QL_QuanCafe.frm_Info_employee.resources
+C:\Users\ADMIN\OneDrive\Desktop\NGUYENTHEMINH_8340\NGUYENTHEMINH_8340\QL_QuanCafe\obj\Debug\QL_QuanCafe.frm_Login.resources
+C:\Users\ADMIN\OneDrive\Desktop\NGUYENTHEMINH_8340\NGUYENTHEMINH_8340\QL_QuanCafe\obj\Debug\QL_QuanCafe.Frm_Manager.resources
+C:\Users\ADMIN\OneDrive\Desktop\NGUYENTHEMINH_8340\NGUYENTHEMINH_8340\QL_QuanCafe\obj\Debug\QL_QuanCafe.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Desktop\NGUYENTHEMINH_8340\NGUYENTHEMINH_8340\QL_QuanCafe\obj\Debug\QL_QuanCafe.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Desktop\NGUYENTHEMINH_8340\NGUYENTHEMINH_8340\QL_QuanCafe\obj\Debug\QL_QuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\NGUYENTHEMINH_8340\NGUYENTHEMINH_8340\QL_QuanCafe\obj\Debug\QL_QuanCafe.exe
+C:\Users\ADMIN\OneDrive\Desktop\NGUYENTHEMINH_8340\NGUYENTHEMINH_8340\QL_QuanCafe\obj\Debug\QL_QuanCafe.pdb
